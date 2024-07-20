@@ -10,10 +10,6 @@
   </div>
 </div>
 
-
-
-
-
 ## 🛠️Skills & Interests
 Programming Languages: Python, R, JavaScript
 Machine Learning: Scikit-learn, Pandas, NumPy
@@ -22,9 +18,9 @@ Data Visualization: Matplotlib, Seaborn, Plotly
 Tools & Platforms: Jupyter, Git, Docker, AWS
 
 ## 📫Let's Connect!
-- Email: ankushmehta243@gmail.com
+- <b>Email</b>: ankushmehta243@gmail.com
 - <b>GitHub</b>: https://github.com/ankushmehta123/
-- LinkedIn: https://www.linkedin.com/in/i-ankush-mehta/
+- <b>LinkedIn</b>: https://www.linkedin.com/in/i-ankush-mehta/
 
 
 
