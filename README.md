@@ -7,7 +7,8 @@
 - <b>Machine Learning:</b> Scikit-learn, Pandas, NumPy
 - <b>Deep Learning:</b> TensorFlow, Keras, PyTorch
 - <b>Data Visualization:</b> Matplotlib, Seaborn, Plotly
-- <b>Tools & Platforms:</b> Jupyter, Git, Docker, AWS
+- <b>Tools & Platforms:</b> Jupyter, Git, Docker, AWS  ![ezgif-6-3c82469796](https://github.com/user-attachments/assets/1131f438-6768-4d5f-88fe-bfeb8ef9f380)
+
 
 ## 📫Let's Connect!
 - <b>Email:</b> ankushmehta243@gmail.com
