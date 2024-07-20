@@ -1,14 +1,6 @@
 # About Me
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p> 
-      👋 Hello! I'm Ankush Mehta, an AI and tech enthusiast with a passion for exploring the fascinating world of Machine Learning (ML) and Deep Learning (DL). I enjoy diving into complex problems and finding innovative solutions through cutting-edge technologies.
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/4c7bff73-3a42-4d8a-8742-657fe67b6c80" alt="Image Description" style="max-width: 100%; height: auto;">
-  </div>
-</div>
+👋 Hello! I'm Ankush Mehta, an AI and tech enthusiast with a passion for exploring the fascinating world of Machine Learning (ML) and Deep Learning (DL). I enjoy diving into complex problems and finding innovative solutions through cutting-edge technologies. ![ezgif-2-6b6761bca7](https://github.com/user-attachments/assets/320c5420-b1ae-4f61-a748-f34d58bc9978)
+
 
 ## 🛠️Skills & Interests
 - <b>Programming Languages:</b> Python, R, JavaScript
