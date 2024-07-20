@@ -2,9 +2,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p> 
-      👋 Hi there! I'm Ronit Khurana, a passionate AI and software development enthusiast from Delhi, India. I specialize in deep learning, full-stack development, and innovative problem-solving. With a solid foundation in computer science and hands-on experience with cutting-edge technologies, I'm dedicated to creating impactful solutions.
-
-Welcome to my GitHub profile, where you can explore my projects and see what I'm working on. From AI-powered applications to full-stack web development, my work reflects my commitment to continuous learning.
+      👋 Hello! I'm Ankush Mehta, an AI and tech enthusiast with a passion for exploring the fascinating world of Machine Learning (ML) and Deep Learning (DL). I enjoy diving into complex problems and finding innovative solutions through cutting-edge technologies.
     </p>
   </div>
   <div style="flex: 1;">
