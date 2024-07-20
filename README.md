@@ -11,16 +11,16 @@
 </div>
 
 ## 🛠️Skills & Interests
-Programming Languages: Python, R, JavaScript
-Machine Learning: Scikit-learn, Pandas, NumPy
-Deep Learning: TensorFlow, Keras, PyTorch
-Data Visualization: Matplotlib, Seaborn, Plotly
-Tools & Platforms: Jupyter, Git, Docker, AWS
+- <b>Programming Languages:</b> Python, R, JavaScript
+- <b>Machine Learning:</b> Scikit-learn, Pandas, NumPy
+- <b>Deep Learning:</b> TensorFlow, Keras, PyTorch
+- <b>Data Visualization:</b> Matplotlib, Seaborn, Plotly
+- <b>Tools & Platforms:</b> Jupyter, Git, Docker, AWS
 
 ## 📫Let's Connect!
-- <b>Email</b>: ankushmehta243@gmail.com
-- <b>GitHub</b>: https://github.com/ankushmehta123/
-- <b>LinkedIn</b>: https://www.linkedin.com/in/i-ankush-mehta/
+- <b>Email:</b> ankushmehta243@gmail.com
+- <b>GitHub:</b> https://github.com/ankushmehta123/
+- <b>LinkedIn:</b> https://www.linkedin.com/in/i-ankush-mehta/
 
 
 
