@@ -12,9 +12,11 @@
 ![ezgif-6-3c82469796](https://github.com/user-attachments/assets/1131f438-6768-4d5f-88fe-bfeb8ef9f380)
 
 ## 📫Let's Connect!
-- <b>Email:</b> ankushmehta243@gmail.com                                                                                                    
-- <b>GitHub:</b> https://github.com/ankushmehta123/                                                          
-- <b>LinkedIn:</b> https://www.linkedin.com/in/i-ankush-mehta/
-
-
-![ezgif-6-5744c6cf57](https://github.com/user-attachments/assets/c98909d7-38f5-4bd9-a05c-9485001f68c4)
+<div>
+  <img src="https://cdn.dribbble.com/users/3497212/screenshots/11476810/media/c18175dc05724f0c933fa8f49b2ff875.gif" alt="Thank You" align="right" width="200" style="padding-right: 20px;"/>
+</div>
+  <ul>
+    <li><b>Email:</b> <a href="mailto:ankushmehta243@gmail.com">ankushmehta243@gmail.com</a></li>
+    <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/i-ankush-mehta/">Ankush Mehta</a></li>
+    <li><b>GitHub:</b> <a href="https://github.com/ankushmehta123">Ankush123</a></li>
+  </ul>
