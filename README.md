@@ -6,7 +6,7 @@
 
 👋 Hello! I'm Ankush Mehta, an AI and tech enthusiast with a passion for exploring the fascinating world of Machine Learning (ML) and Deep Learning (DL). I enjoy diving into complex problems and finding innovative solutions through cutting-edge technologies.
 
-Welcome to my GitHub profile, where you can explore my projects and see what I'm working on. From AI-powered applications to full-stack web development, my work reflects my commitment to continuous learning.
+Dive into my GitHub profile to check out my projects and ongoing work. From AI-powered solutions to comprehensive web development, my portfolio highlights my passion for continuous learning.
 
 ## 🛠️ Skills
 <div>
@@ -35,7 +35,6 @@ Welcome to my GitHub profile, where you can explore my projects and see what I'm
 
 
 
-Thank you for visiting my GitHub profile! Feel free to explore (and star) my repositories and connect with me. Let's build something amazing together!
-
+Thanks for checking out my GitHub profile! Please explore (and star) my repositories and connect with me. Let's work together on something amazing!
 
 
