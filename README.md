@@ -23,8 +23,8 @@ Tools & Platforms: Jupyter, Git, Docker, AWS
 
 ## 📫Let's Connect!
 - Email: ankushmehta243@gmail.com
-- GitHub: https://github.com/ankushmehta123/
-- LinkedIn: [Ankush](https://www.linkedin.com/in/i-ankush-mehta/)
+- <b>GitHub</b>: https://github.com/ankushmehta123/
+- LinkedIn: https://www.linkedin.com/in/i-ankush-mehta/
 
 
 
