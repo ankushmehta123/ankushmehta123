@@ -1,5 +1,6 @@
 # About Me
-<p> 👋 Hello! I'm Ankush Mehta, an AI and tech enthusiast with a passion for exploring the fascinating world of Machine Learning (ML) and Deep Learning (DL). I enjoy diving into complex problems and finding innovative solutions through cutting-edge technologies.</p>![ezgif-2-ffccb1d8c4](https://github.com/user-attachments/assets/cd0a64e0-a023-45b1-99be-6d476d7adaf8)
+<p> 👋 Hello! I'm Ankush Mehta, an AI and tech enthusiast with a passion for exploring the fascinating world of Machine Learning (ML) and Deep Learning (DL). I enjoy diving into complex problems and finding innovative solutions through cutting-edge technologies.</p>
+![ezgif-2-ee08213377](https://github.com/user-attachments/assets/b241328c-3337-432b-9491-ad4b685ff801)
 
 
 
