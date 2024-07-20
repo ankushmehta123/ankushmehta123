@@ -6,6 +6,7 @@
 <div>
 <img src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_720_1280/0/1679083748046?e=1725494400&v=beta&t=8B4kGewrBBhK3qcu_a4e5x6U8Ta5VC_dIKFc02VGeMI" alt="Profile Banner" align="right" width="200" style="padding-right: 20px;" />
 </div>
+
 - <b>Programming Languages:</b> Python, R, JavaScript
 - <b>Machine Learning:</b> Scikit-learn, Pandas, NumPy
 - <b>Deep Learning:</b> TensorFlow, Keras, PyTorch                                        
