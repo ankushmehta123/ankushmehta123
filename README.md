@@ -2,7 +2,7 @@
 
 
 <div>
-<img src="https://github.com/user-attachments/assets/50e75993-dcb2-44f6-a32e-3126f614e23b" alt="Profile Banner" align="right" width="200" style="padding-right: 20px;"/>
+<img src="https://github.com/user-attachments/assets/b253effc-bba3-45db-bc6b-94731c74ac00" alt="Profile Banner" align="right" width="200" style="padding-right: 20px;"/>
 
 👋 Hello! I'm Ankush Mehta, an AI and tech enthusiast with a passion for exploring the fascinating world of Machine Learning (ML) and Deep Learning (DL). I enjoy diving into complex problems and finding innovative solutions through cutting-edge technologies.
 
@@ -10,7 +10,7 @@ Dive into my GitHub profile to check out my projects and ongoing work. From AI-p
 
 ## 🛠️ Skills
 <div>
-<img src="https://github.com/user-attachments/assets/b253effc-bba3-45db-bc6b-94731c74ac00"alt="Profile Banner" align="right" width="200" style="padding-right: 20px;" />
+<img src="https://github.com/user-attachments/assets/eade72d1-1b7a-452f-84d8-ee8694cd5a68"alt="Profile Banner" align="right" width="200" style="padding-right: 20px;" />
 </div>
   <ul>
     <li><b>Languages:</b> Python, R, JavaScript</li>
