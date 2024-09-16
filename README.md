@@ -10,7 +10,7 @@ Dive into my GitHub profile to check out my projects and ongoing work. From AI-p
 
 ## 🛠️ Skills
 <div>
-<img src=""alt="Profile Banner" align="right" width="200" style="padding-right: 20px;" />
+<img src="https://github.com/user-attachments/assets/b253effc-bba3-45db-bc6b-94731c74ac00"alt="Profile Banner" align="right" width="200" style="padding-right: 20px;" />
 </div>
   <ul>
     <li><b>Languages:</b> Python, R, JavaScript</li>
