@@ -37,4 +37,5 @@ Dive into my GitHub profile to check out my projects and ongoing work. From AI-p
 
 Thanks for checking out my GitHub profile! Please explore (and star) my repositories and connect with me. Let's work together on something amazing!
 
+[![](https://visitcount.itsvg.in/api?id=ankushmehta123&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
